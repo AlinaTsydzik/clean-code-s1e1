@@ -47,7 +47,7 @@
   
   .list-container {
     margin: 0;
-    padding: 0px;
+    padding: 0;
   }
   
   .list-item {
@@ -61,7 +61,7 @@
   
   .button {
     background: none;
-    border: 0px;
+    border: 0;
     color: #888888;
     font-size: 15px;
     width: 60px;
